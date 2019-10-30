@@ -1,6 +1,6 @@
 """Video Converter
 
-This python scripts allows the user to convert all the videos in a given path
+This python script allows the user to convert all the videos in a given path
 into other extension. The user can also set the output resolution, bitrate and
 framerate. It is also possible to trim the video.
 
